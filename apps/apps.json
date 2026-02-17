@@ -4,8 +4,8 @@
       "slug": "kakugarigame",
       "name": "KakugariGame",
       "manifest": "apps/kakugarigame/manifest.plist",
-      "ipa": "apps/kakugarigame/KakugariGame_manual_ota_22.ipa",
-      "updatedAt": "2026-02-17 23:31 JST"
+      "ipa": "apps/kakugarigame/KakugariGame_manual_ota_23.ipa",
+      "updatedAt": "2026-02-17 23:41 JST"
     }
   ]
 }
