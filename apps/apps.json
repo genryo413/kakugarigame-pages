@@ -6,6 +6,13 @@
       "manifest": "apps/kakugarigame/manifest.plist",
       "ipa": "apps/kakugarigame/KakugariGame_manual_ota_24.ipa",
       "updatedAt": "2026-02-17 23:46 JST"
+    },
+    {
+      "slug": "test-app-3",
+      "name": "TestApp3",
+      "manifest": "apps/test-app-3/manifest.plist",
+      "ipa": "apps/test-app-3/TestApp3_manual_ota_8.ipa",
+      "updatedAt": "2026-02-17 23:58 JST"
     }
   ]
 }
