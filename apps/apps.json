@@ -11,8 +11,8 @@
       "slug": "test-app-3",
       "name": "TestApp3",
       "manifest": "apps/test-app-3/manifest.plist",
-      "ipa": "apps/test-app-3/TestApp3_manual_ota_8.ipa",
-      "updatedAt": "2026-02-17 23:58 JST"
+      "ipa": "apps/test-app-3/TestApp3_manual_ota_9.ipa",
+      "updatedAt": "2026-02-18 00:03 JST"
     }
   ]
 }
