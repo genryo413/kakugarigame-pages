@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "slug": "kakugarigame",
+      "name": "KakugariGame",
+      "manifest": "apps/kakugarigame/manifest.plist",
+      "ipa": "apps/kakugarigame/KakugariGame_manual_ota_20.ipa",
+      "updatedAt": "2026-02-17 23:18 JST"
+    }
+  ]
+}
