@@ -13,11 +13,27 @@
     .meta { font-size: 13px; color: #4b5563; margin: 6px 0; word-break: break-all; }
     .btn { display: inline-block; margin-top: 10px; background: #0a84ff; color: #fff; padding: 10px 14px; border-radius: 10px; text-decoration: none; font-weight: 700; }
     .empty { color: #6b7280; }
+    .web-card { background: linear-gradient(135deg,#fff9d6,#fff3b0); border-color: #e8c200; }
+    .web-badge { display:inline-block; background:#f5cc00; color:#6b5000; padding:2px 8px; border-radius:6px; font-size:11px; font-weight:700; margin-bottom:8px; }
+    .btn-web { background:#d4a900; }
   </style>
 </head>
 <body>
   <h1>OTA Install Hub</h1>
   <p>Safariで開いて各アプリの「インストール」をタップしてください。</p>
+
+  <!-- Web Apps section -->
+  <h2 style="margin:24px 0 12px;font-size:20px;">Webアプリ</h2>
+  <div class="grid" style="margin-bottom:32px;">
+    <div class="card web-card">
+      <div class="web-badge">Webアプリ</div>
+      <div class="name">📝 メモ帳</div>
+      <div class="meta">iOSのメモアプリ風WebApp。データはブラウザに保存されます。</div>
+      <a class="btn btn-web" href="apps/ios-notes/" target="_blank">開く</a>
+    </div>
+  </div>
+
+  <h2 style="margin:0 0 12px;font-size:20px;">iOSアプリ (OTA)</h2>
   <div id="app-list" class="grid"></div>
   <template id="card-template">
     <div class="card">
