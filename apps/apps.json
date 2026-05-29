@@ -13,6 +13,13 @@
       "manifest": "apps/test-app-3/manifest.plist",
       "ipa": "apps/test-app-3/TestApp3_manual_ota_9.ipa",
       "updatedAt": "2026-02-18 00:03 JST"
+    },
+    {
+      "slug": "koukannikki",
+      "name": "交換日記",
+      "manifest": "apps/koukannikki/manifest.plist",
+      "ipa": "apps/koukannikki/KoukanNikki_ota_8.ipa",
+      "updatedAt": "2026-05-30 08:45 JST"
     }
   ]
 }
